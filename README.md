@@ -17,15 +17,15 @@ For better experience, you can use Postman.
 ## How To Use
 
 - Clone this repository
-<br>
+
 $ git clone https://github.com/dpromoha/btcRate.git
-<br>
+
 - Go into the repository
-<br>
+
 $ cd btcRate
-<br>
+
 - open postman
-<br>
+
 write a first request
 
 ## Usage:

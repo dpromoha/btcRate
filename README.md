@@ -20,11 +20,10 @@ For better experience, you can use Postman.
 <br>
 $ git clone https://github.com/dpromoha/btcRate.git
 <br>
-<br>
 - Go into the repository
 <br>
 $ cd btcRate
-
+<br>
 - open postman
 <br>
 write a first request

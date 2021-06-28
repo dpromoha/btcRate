@@ -16,11 +16,11 @@ For better experience, you can use Postman.
 
 ## How To Use
 
-- Clone this repository and go into the repository:
+- **Clone this repository and go into the repository:**
 
 $ git clone https://github.com/dpromoha/btcRate.git && cd btcRate
 
-- Open postman:
+- **Open postman:**
 
 write a first request
 
